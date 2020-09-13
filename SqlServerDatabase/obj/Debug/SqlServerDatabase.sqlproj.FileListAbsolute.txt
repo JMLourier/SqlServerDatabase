@@ -4,3 +4,7 @@ C:\Data\Azure\DevOps\SqlServerDatabase\SqlServerDatabase\SqlServerDatabase\bin\D
 C:\Data\Azure\DevOps\SqlServerDatabase\SqlServerDatabase\SqlServerDatabase\obj\Debug\SqlServerDatabase.sqlprojAssemblyReference.cache
 C:\Data\Azure\DevOps\SqlServerDatabase\SqlServerDatabase\SqlServerDatabase\obj\Debug\SqlServerDatabase.dll
 C:\Data\Azure\DevOps\SqlServerDatabase\SqlServerDatabase\SqlServerDatabase\obj\Debug\SqlServerDatabase.pdb
+C:\Data\Azure\DevOps\SqlServerDatabase\SqlServerDatabase\SqlServerDatabase\obj\Debug\Model.xml
+C:\Data\Azure\DevOps\SqlServerDatabase\SqlServerDatabase\SqlServerDatabase\obj\Debug\refactor.xml
+C:\Data\Azure\DevOps\SqlServerDatabase\SqlServerDatabase\SqlServerDatabase\obj\Debug\postdeploy.sql
+C:\Data\Azure\DevOps\SqlServerDatabase\SqlServerDatabase\SqlServerDatabase\obj\Debug\predeploy.sql
