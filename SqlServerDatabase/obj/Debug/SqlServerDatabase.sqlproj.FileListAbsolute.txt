@@ -1,0 +1,6 @@
+C:\Data\Azure\DevOps\SqlServerDatabase\SqlServerDatabase\SqlServerDatabase\bin\Debug\SqlServerDatabase.dacpac
+C:\Data\Azure\DevOps\SqlServerDatabase\SqlServerDatabase\SqlServerDatabase\bin\Debug\SqlServerDatabase.dll
+C:\Data\Azure\DevOps\SqlServerDatabase\SqlServerDatabase\SqlServerDatabase\bin\Debug\SqlServerDatabase.pdb
+C:\Data\Azure\DevOps\SqlServerDatabase\SqlServerDatabase\SqlServerDatabase\obj\Debug\SqlServerDatabase.sqlprojAssemblyReference.cache
+C:\Data\Azure\DevOps\SqlServerDatabase\SqlServerDatabase\SqlServerDatabase\obj\Debug\SqlServerDatabase.dll
+C:\Data\Azure\DevOps\SqlServerDatabase\SqlServerDatabase\SqlServerDatabase\obj\Debug\SqlServerDatabase.pdb

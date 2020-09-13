@@ -1,0 +1,82 @@
+13.09.2020 18:48:03	This log contains information about the import schema operation into project 'SqlServerDatabase' on computer 'LHIND-N217000' by user 'U708593'.
+13.09.2020 18:48:03	Import of database schema has started.
+13.09.2020 18:48:09	Gathering database credentials
+13.09.2020 18:48:09	Gathering database options
+13.09.2020 18:48:09	Gathering users
+13.09.2020 18:48:09	Gathering roles
+13.09.2020 18:48:09	Gathering application roles
+13.09.2020 18:48:09	Gathering role memberships
+13.09.2020 18:48:09	Gathering filegroups
+13.09.2020 18:48:09	Gathering full-text catalogs
+13.09.2020 18:48:09	Gathering assemblies
+13.09.2020 18:48:09	Gathering certificates
+13.09.2020 18:48:09	Gathering asymmetric keys
+13.09.2020 18:48:09	Gathering symmetric keys
+13.09.2020 18:48:09	Gathering encrypted symmetric keys
+13.09.2020 18:48:09	Gathering schemas
+13.09.2020 18:48:09	Gathering XML schema collections
+13.09.2020 18:48:09	Gathering user-defined data types
+13.09.2020 18:48:09	Gathering user-defined types
+13.09.2020 18:48:09	Gathering table types
+13.09.2020 18:48:09	Gathering unique keys for table types
+13.09.2020 18:48:09	Gathering primary keys for table types
+13.09.2020 18:48:09	Gathering indexes for table types
+13.09.2020 18:48:09	Gathering check constraints for table types
+13.09.2020 18:48:09	Gathering default constraints for table types
+13.09.2020 18:48:09	Gathering partition functions
+13.09.2020 18:48:09	Gathering partition schemes
+13.09.2020 18:48:09	Gathering functions
+13.09.2020 18:48:09	Gathering encrypted functions
+13.09.2020 18:48:09	Gathering aggregates
+13.09.2020 18:48:09	Gathering procedures
+13.09.2020 18:48:09	Gathering encrypted procedures
+13.09.2020 18:48:09	Gathering tables
+13.09.2020 18:48:09	Gathering primary keys
+13.09.2020 18:48:10	Gathering unique constraints
+13.09.2020 18:48:10	Gathering foreign keys
+13.09.2020 18:48:10	Gathering default constraints
+13.09.2020 18:48:10	Gathering check constraints
+13.09.2020 18:48:10	Gathering views
+13.09.2020 18:48:10	Gathering encrypted views
+13.09.2020 18:48:10	Gathering indexes
+13.09.2020 18:48:10	Gathering statistics
+13.09.2020 18:48:10	Gathering full-text index stoplists
+13.09.2020 18:48:10	Gathering search property lists
+13.09.2020 18:48:10	Gathering search properties
+13.09.2020 18:48:10	Gathering full-text indexes
+13.09.2020 18:48:10	Gathering column store indexes
+13.09.2020 18:48:10	Gathering spatial indexes
+13.09.2020 18:48:10	Gathering XML indexes
+13.09.2020 18:48:10	Gathering Selective XML indexes
+13.09.2020 18:48:10	Gathering encrypted triggers
+13.09.2020 18:48:10	Gathering triggers
+13.09.2020 18:48:10	Gathering encrypted and clr ddl triggers
+13.09.2020 18:48:10	Gathering ddl triggers
+13.09.2020 18:48:10	Gathering synonyms
+13.09.2020 18:48:10	Gathering defaults
+13.09.2020 18:48:10	Gathering data constraint uddt bindings
+13.09.2020 18:48:10	Gathering rules
+13.09.2020 18:48:10	Gathering data constraint uddt bindings
+13.09.2020 18:48:10	Gathering message types
+13.09.2020 18:48:10	Gathering queues
+13.09.2020 18:48:10	Gathering contracts
+13.09.2020 18:48:10	Gathering services
+13.09.2020 18:48:10	Gathering event notifications
+13.09.2020 18:48:10	Gathering remote service bindings
+13.09.2020 18:48:10	Gathering broker priorities
+13.09.2020 18:48:10	Gathering signatures
+13.09.2020 18:48:10	Gathering data compression options
+13.09.2020 18:48:10	Gathering sequence types
+13.09.2020 18:48:10	Gathering security policies
+13.09.2020 18:48:10	Gather column encryption keys
+13.09.2020 18:48:10	Gathering column master keys
+13.09.2020 18:48:10	Gathering external data sources
+13.09.2020 18:48:10	Gathering external file formats
+13.09.2020 18:48:10	Gathering external tables
+13.09.2020 18:48:10	Gathering extended properties
+13.09.2020 18:48:10	Gathering credentials
+13.09.2020 18:48:10	Gathering logins
+13.09.2020 18:48:10	Gathering server audits
+13.09.2020 18:48:11	Finished importing database.
+13.09.2020 18:48:11	A summary of the import was saved to the following location: C:\Data\Azure\DevOps\SqlServerDatabase\SqlServerDatabase\SqlServerDatabase\Import Schema Logs\SqlServerDatabase_20200913044803.log
+13.09.2020 18:48:11	Click Finish to continue...
